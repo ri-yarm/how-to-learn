@@ -120,7 +120,7 @@
 }
 
 .two-columns__paragraph {
-  margin: 0 0 0 30px;
+  margin: 0 0 30px 0;
   padding: 0;
   line-height: 34px;
   font-size: 24px;
@@ -310,7 +310,7 @@
 }
 
 .footer__column {
-  min-height: 220px;
+  min-height: 255px;
 }
 
 .footer__columns {
