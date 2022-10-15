@@ -7,3 +7,10 @@
   text-decoration: none;
   color: white;
 }
+
+.footer__column-link:hover {
+  opacity: .7;
+  -webkit-transition: color 0.4 ease-out;
+  -o-transition: color 0.4 ease-out;
+  transition: color 0.4 ease-out;
+}

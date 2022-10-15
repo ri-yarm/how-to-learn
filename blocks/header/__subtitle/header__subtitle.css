@@ -4,6 +4,7 @@
   position: absolute;
   z-index: 2;
   max-width: 388px;
+  -ms-flex-item-align: end;
   align-self: flex-end;
   line-height: 25px;
   font-size: 18px;

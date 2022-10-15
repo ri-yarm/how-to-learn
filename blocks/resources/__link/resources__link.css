@@ -1,11 +1,9 @@
-.header__link {
+.resources__link {
   margin: 0;
   padding: 0;
-  text-decoration: none;
-  color: #2f80ed;
 }
 
-.header__link:hover {
+.resources__link:hover {
   opacity: .7;
   -webkit-transition: color 0.4 ease-out;
   -o-transition: color 0.4 ease-out;
