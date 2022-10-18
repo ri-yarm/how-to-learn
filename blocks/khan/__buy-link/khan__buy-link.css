@@ -6,11 +6,12 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  align-self: baseline;
+  -webkit-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s;
 }
 
 .khan__buy-link:hover {
   opacity: .7;
-  -webkit-transition: color 0.4 ease-out;
-  -o-transition: color 0.4 ease-out;
-  transition: color 0.4 ease-out;
 }

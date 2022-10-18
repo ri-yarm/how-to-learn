@@ -1,11 +1,11 @@
 .resources__link {
   margin: 0;
   padding: 0;
+  -webkit-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s;
 }
 
 .resources__link:hover {
   opacity: .7;
-  -webkit-transition: color 0.4 ease-out;
-  -o-transition: color 0.4 ease-out;
-  transition: color 0.4 ease-out;
 }

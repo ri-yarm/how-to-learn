@@ -8,5 +8,5 @@
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  gap: 60px 100px;
+  gap: 0 100px;
 }

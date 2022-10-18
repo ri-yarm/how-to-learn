@@ -6,11 +6,11 @@
   font-weight: normal;
   text-decoration: none;
   color: white;
+  -webkit-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s;
 }
 
 .footer__column-link:hover {
   opacity: .7;
-  -webkit-transition: color 0.4 ease-out;
-  -o-transition: color 0.4 ease-out;
-  transition: color 0.4 ease-out;
 }
